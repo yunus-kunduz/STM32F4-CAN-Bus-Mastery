@@ -40,7 +40,7 @@ In addition to the firmware development, this repository includes a complete har
     - Integrated bypass capacitors and termination resistor footprints for bus stability.
 
     ![CAN_Bus_Proteus_PCB_Layout](assets/CAN_Bus_Proteus_PCB_Layout.png)
-    *Figure 1: Professional PCB layout design for dual CAN Bus nodes in Proteus, featuring optimized differential pair routing.*
+    *Figure 1: Professional PCB layout design for dual CAN Bus nodes in Proteus, designed with TJA1050 transceivers as hardware reference.*
 
 ---
 
