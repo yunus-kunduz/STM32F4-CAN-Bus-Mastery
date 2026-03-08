@@ -1,0 +1,35 @@
+# STM32 Projeleri İçin Derleme Dosyaları (Build Artifacts)
+Debug/
+Release/
+bin/
+obj/
+
+# Derleyici Çıktıları (Binary Files)
+*.elf
+*.hex
+*.bin
+*.map
+*.list
+*.o
+*.d
+*.su
+
+# IDE ve Kullanıcıya Özel Ayarlar (Local Settings)
+.settings/
+.launches/
+.metadata/
+*.bak
+*.itm
+*.svd
+*.tmp
+
+# Proteus Geçici Dosyaları
+*.pwi
+*.bak
+*.last
+*.tmp
+*.log
+
+# İşletim Sistemi Geçici Dosyaları
+Thumbs.db
+.DS_Store
